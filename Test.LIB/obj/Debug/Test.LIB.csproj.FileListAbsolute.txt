@@ -1,6 +1,0 @@
-C:\Users\nilad\source\repos\ConsoleApp1\Test.LIB\bin\Debug\Test.LIB.dll
-C:\Users\nilad\source\repos\ConsoleApp1\Test.LIB\bin\Debug\Test.LIB.pdb
-C:\Users\nilad\source\repos\ConsoleApp1\Test.LIB\obj\Debug\Test.LIB.csproj.AssemblyReference.cache
-C:\Users\nilad\source\repos\ConsoleApp1\Test.LIB\obj\Debug\Test.LIB.csproj.CoreCompileInputs.cache
-C:\Users\nilad\source\repos\ConsoleApp1\Test.LIB\obj\Debug\Test.LIB.dll
-C:\Users\nilad\source\repos\ConsoleApp1\Test.LIB\obj\Debug\Test.LIB.pdb
